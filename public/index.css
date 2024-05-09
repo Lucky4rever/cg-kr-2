@@ -1,0 +1,7 @@
+:root,
+body,
+canvas {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
